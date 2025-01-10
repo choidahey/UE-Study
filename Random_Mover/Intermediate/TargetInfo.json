@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Random_Mover",
+			"Path": "..\\Source\\Random_Mover.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Random_MoverEditor",
+			"Path": "..\\Source\\Random_MoverEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

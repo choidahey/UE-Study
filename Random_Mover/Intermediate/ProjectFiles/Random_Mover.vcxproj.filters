@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Random_Mover.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Random_Mover.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Random_MoverEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Random_Mover">
+      <UniqueIdentifier>{7767495B-3408-340C-AB0C-D3FA2D142FD3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Random_Mover\Random_Mover.Build.cs">
+      <Filter>Source\Random_Mover</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Random_Mover\Random_Mover.cpp">
+      <Filter>Source\Random_Mover</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Random_Mover\Random_Mover.h">
+      <Filter>Source\Random_Mover</Filter>
+    </ClCompile>
+    <Filter Include="Source\Random_Mover\Private">
+      <UniqueIdentifier>{27CAD3B0-6CD9-3CBE-8F3F-16929D8681D2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Random_Mover\Private\MyActor.cpp">
+      <Filter>Source\Random_Mover\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Random_Mover\Public">
+      <UniqueIdentifier>{D7600EC6-6D0B-3ABB-B5BB-FE3AF3A08AE5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Random_Mover\Public\MyActor.h">
+      <Filter>Source\Random_Mover\Public</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

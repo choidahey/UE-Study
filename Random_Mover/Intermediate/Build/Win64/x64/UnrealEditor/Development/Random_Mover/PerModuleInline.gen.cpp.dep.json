@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue5_project\\random_mover\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\random_mover\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue5_project\\random_mover\\intermediate\\build\\win64\\x64\\random_movereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\ue5_project\\random_mover\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\random_mover\\definitions.random_mover.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
