@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SampleChat-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE5_project\SampleChat\Intermediate\Build\Win64\x64\SampleChatEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"D:\UE5_project\SampleChat\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\SampleChat\GenerateRandomNumber.gen.cpp.obj"
+"D:\UE5_project\SampleChat\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\SampleChat\SampleChat.init.gen.cpp.obj"
+"D:\UE5_project\SampleChat\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\SampleChat\SampleChat.cpp.obj"
+"D:\UE5_project\SampleChat\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\SampleChat\GenerateRandomNumber.cpp.obj"
+"D:\UE5_project\SampleChat\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\SampleChat\PerModuleInline.gen.cpp.obj"
+"D:\UE5_project\SampleChat\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\SampleChat\Default.rc2.res"
+/OUT:"D:\UE5_project\SampleChat\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\SampleChat\UnrealEditor-SampleChat-Win64-DebugGame.lib"
